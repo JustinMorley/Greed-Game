@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mgIP/ZICK5vuzoee3c3yMWZYuMabIRZbJnLExLcSAK6N8nol8EgP+5XYUAkO7xhFrAVGcytoUxnt7gRwjRJHAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justm\\OneDrive\\Documents\\School Work\\Python\\Program w Classes\\Unit4_project\\Unit04\\Unit04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justm\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\justm\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
